@@ -1,0 +1,2 @@
+# appmock
+Easy CLI mocking
